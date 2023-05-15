@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercrafter.com/sizes/2560x1440/12653-night-city-starry-sky-night-city-lights-aerial-view-4k.jpg)]
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/685/960/17/los-angeles-city-sky-lights-wallpaper-preview.jpg)]
 <h1 align="center">Hi 👋, I'm Jonas</h1>
 <h3 align="center">Im an upcoming Data Analyst from Vilnius</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
